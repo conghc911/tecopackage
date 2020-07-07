@@ -1,6 +1,6 @@
 # smartapp
 
-> A Vue.js project
+> A Vue.js project [teco package v1.0]
 
 ## Build Setup
 
@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:9095
 npm run dev
 
 # build for production with minification
